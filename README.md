@@ -60,14 +60,26 @@ http://localhost:3000/
 5. Users can safely log out to end their session.
 ## Project Structure
 ```
-project-folder/
-├── index.html
-├── login.html
-├── style.css
-├── script.js
-├── server.js (or app.py / login.php)
-├── database/
-└── README.md
+SampleApp-Node TCS (2)/
+└── SampleApp-Node TCS/
+    └── app-id-sample-node/
+        ├── node_modules/              # Dependencies installed via npm
+        ├── protected/                 # Likely for secured resources
+        ├── public/                    # Static assets (CSS, JS, images)
+        ├── .cfignore                  # Cloud Foundry ignore rules
+        ├── .dockerignore              # Docker build ignore rules
+        ├── .gitignore                 # Git ignore rules
+        ├── .secrets.baseline          # Security baseline file
+        ├── app.js                     # Main Node.js application entry
+        ├── Dockerfile                 # Docker container definition
+        ├── kube_deployment            # Kubernetes deployment config
+        ├── LICENSE                    # License information
+        ├── localdev-config            # Local development configuration
+        ├── manifest                   # App manifest file
+        ├── package.json               # Project metadata & dependencies
+        ├── package-lock.json          # Dependency lock file
+        └── README.md                  # Project documentation
+
 ```
 
 
