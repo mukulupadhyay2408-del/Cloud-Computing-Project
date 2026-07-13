@@ -101,8 +101,9 @@ This project helped me understand how secure authentication can be implemented u
 ## License
 This project is created for educational purposes as part of a Cloud Computing course.
 ## Author
-- Name: MUKUL UPADHYAY
-- Course: Bachelor of Technology (B.Tech)
-- Branch: Computer Science And Engineering
-- Project: Secure User Authentication for Web Apps with IBM Cloud App ID
-
+   Name: MUKUL UPADHYAY    
+   Course: Bachelor of Technology (B.Tech)  
+   Branch: Computer Science And Engineering
+   
+  Project: Secure User Authentication for Web Apps with IBM Cloud App ID
+  
