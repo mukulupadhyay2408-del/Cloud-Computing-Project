@@ -33,7 +33,7 @@ Before running this project, make sure you have:
 # Installation
 1. Clone this repository.
     ```bash
-   git clone https://github.com/mukulupadhyay2408-del/Cloud-Computing-Project.git
+    https://github.com/mukulupadhyay2408-del/Cloud-Computing-Project.git
    ```
 3. Open the project folder.
 4. Install the required dependencies:
