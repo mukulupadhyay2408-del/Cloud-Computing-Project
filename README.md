@@ -98,10 +98,11 @@ Through this project, I learned:
 - Store additional user profile information.
 ## Conclusion
 This project helped me understand how secure authentication can be implemented using IBM Cloud App ID. It demonstrates a simple and effective way to protect web applications while improving user security and reducing the complexity of managing authentication manually.
-## Author
-Name: MUKUL UPADHYAY
-Course: Bachelor of Technology (B.Tech)
-Branch: Computer Science And Engineering
-Project: Secure User Authentication for Web Apps with IBM Cloud App ID
 ## License
 This project is created for educational purposes as part of a Cloud Computing course.
+## Author
+- Name: MUKUL UPADHYAY
+- Course: Bachelor of Technology (B.Tech)
+- Branch: Computer Science And Engineering
+- Project: Secure User Authentication for Web Apps with IBM Cloud App ID
+
