@@ -1,5 +1,5 @@
-# Cloud-Computing-Project
-# 🔐 Secure User Authentication for Web Apps with IBM Cloud App ID
+## ☁️ Cloud-Computing-Project
+## 🔐 Secure User Authentication for Web Apps with IBM Cloud App ID
 ## 📌 Porject Overview
 This project demonstrates how to implement secure user authentication for a web application using IBM Cloud App ID. The main objective is to provide a secure login system that protects user data and allows only authenticated users to access the application.
 
@@ -30,7 +30,7 @@ Before running this project, make sure you have:
 * IBM Cloud App ID service configured
 * Node.js and npm installed
 * Internet connection
-# Installation
+## 📥 Installation
 1. Clone this repository.
     ```bash
     https://github.com/mukulupadhyay2408-del/Cloud-Computing-Project.git
@@ -83,39 +83,40 @@ SampleApp-Node TCS (2)/
 ```
 
 
-## Usage
+## 🖥️ Usage
 - Open the application in your browser.
 - Enter your username and password.
 - Click the Login button.
 
-## Future Improvements
+## 🔧 Future Improvements
 - User registration
 - Password encryption
 - Email verification
 - Multi-factor authentication
 - Cloud database integration
 
-## Learning Outcomes
+## 📘 Learning Outcomes
 Through this project, I learned:
 
 - How cloud-based authentication works.
 - How to integrate IBM Cloud App ID into a web application.
 - The importance of user authentication and authorization.
 - Basic concepts of identity and access management.
-## Future Enhancements
+## 🔮 Future Enhancements
 - Add multi-factor authentication (MFA).
 - Enable social login (Google and Facebook).
 - Improve the user interface.
 - Add role-based access control.
 - Store additional user profile information.
-## Conclusion
+## 🏁 Conclusion
 This project helped me understand how secure authentication can be implemented using IBM Cloud App ID. It demonstrates a simple and effective way to protect web applications while improving user security and reducing the complexity of managing authentication manually.
-## License
+## 📜 License
 This project is created for educational purposes as part of a Cloud Computing course.
-## Author
+## ✍️ Author
    Name: MUKUL UPADHYAY    
    Course: Bachelor of Technology (B.Tech)  
    Branch: Computer Science And Engineering
    
-  Project: Secure User Authentication for Web Apps with IBM Cloud App ID
+
+ 
   
