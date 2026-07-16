@@ -1,29 +1,29 @@
 # Cloud-Computing-Project
-# Secure User Authentication for Web Apps with IBM Cloud App ID
-# Porject Overview
+# 🔐 Secure User Authentication for Web Apps with IBM Cloud App ID
+## 📌 Porject Overview
 This project demonstrates how to implement secure user authentication for a web application using IBM Cloud App ID. The main objective is to provide a secure login system that protects user data and allows only authenticated users to access the application.
 
 IBM Cloud App ID simplifies authentication by providing features such as user registration, login, password management, and identity integration without requiring developers to build these features from scratch.
-# Objectives
+## 🎯  Objectives
 * Implement secure user authentication.
 * Integrate IBM Cloud App ID into a web application.
 * Protect application resources from unauthorized access.
 * Understand cloud-based identity and access management.
-# Features
+## ✨ Features
 * User Sign Up
 * User Login
 * Secure Authentication using IBM Cloud App ID
 * Session Management
 * Protected Pages for Authenticated Users
 * User Logout
-# Technologies Used
+## 🛠️  Technologies Used
 * IBM Cloud App ID
 * HTML
 * CSS
 * JavaScript
 * Node.js
 * Express.js
-# Prerequisites
+## 📋 Prerequisites
 Before running this project, make sure you have:
 
 * IBM Cloud account
@@ -52,13 +52,13 @@ npm start
 ```bash
 http://localhost:3000/
 ```
-## How It Works
+## ⚙️ How It Works
 1. Users register or log in using IBM Cloud App ID.
 2. IBM Cloud App ID verifies the user's identity.
 3. After successful authentication, users can access protected pages.
 4. Unauthorized users cannot access secured resources.
 5. Users can safely log out to end their session.
-## Project Structure
+## 📂 Project Structure
 ```
 SampleApp-Node TCS (2)/
 └── SampleApp-Node TCS/
