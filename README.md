@@ -50,7 +50,7 @@ npm start
  
 6. Open your browser and visit:
 ```bash
-http://localhost:3000/
+http://localhost:3000
 ```
 ## ⚙️ How It Works
 1. Users register or log in using IBM Cloud App ID.
